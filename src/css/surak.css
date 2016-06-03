@@ -1,0 +1,36 @@
+.code {
+  padding: 2px;
+  background-color: #DADADA;
+}
+
+.inverted-code {
+  padding: 8px;
+  background-color: #30343C;
+  color: #EBEBEB;
+}
+
+.green {
+  color: #9CC57E;
+}
+
+.thin {
+  font-weight: 400;
+}
+
+.margin-1 {
+  margin: 1em;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.howto {
+  line-height: 1.8;
+}
+
+.red {
+  color: #E36E66;
+}
